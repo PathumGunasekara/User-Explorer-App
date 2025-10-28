@@ -48,3 +48,20 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Features
+- Fetch user data from JSONPlaceholder API
+- Display Name, Email, and Company
+- Search users by name
+- User details screen
+- Navigation using React Navigation
+- Loading spinner
+- Error handling
+- Pull-to-refresh
+- Uses FlatList for performance
+
+## Technologies
+- React Native (Expo)
+- Axios (API fetching)
+- React Navigation
+- Functional Components, useState, useEffect
